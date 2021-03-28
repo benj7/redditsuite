@@ -14,7 +14,11 @@
 #   Test Package:              'Cmd + Shift + T'
 
 #' hello
+#' @author Benjamin David
+#' @param name Someone's name
+#' @examples
+#' hello(name = "Benjamin")
 #' @export hello
-hello <- function() {
-  print("Hello, world!")
+hello <- function(name = 'world') {
+  print(glue("Hello, {name}!"))
 }
