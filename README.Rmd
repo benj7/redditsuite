@@ -15,9 +15,14 @@ knitr::opts_chunk$set(
 
 # redditsuite
 
-Git location per episode 
+## Episode 5 
 
-[Episode 5](https://github.com/benj7/redditsuite/tree/episode-5)
+[Github link](https://github.com/benj7/redditsuite/tree/episode-5)
+
+Commands used in this episode 
+``` 
+[Setting up PostgreSQL with Docker Compose](https://www.notion.so/Setting-up-PostgreSQL-with-Docker-Compose-ed34e705bb2f434eb7c7f77d01fb59de)
+```
 <!-- badges: start -->
 <!-- badges: end -->
 
