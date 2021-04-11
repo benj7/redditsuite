@@ -50,4 +50,8 @@ DBI::dbAppendTable(conn = pg_connection,
                    name = 'mtcars',
                    value = mtcars_modified)
 
+DBI::dbRemoveTable(conn = pg_connection,
+                   name = 'mtcars')
+
+DBI::dbListTables(conn = pg_connection)
 
