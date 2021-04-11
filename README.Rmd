@@ -21,10 +21,9 @@ knitr::opts_chunk$set(
 
 Commands used in this episode 
 ``` 
-[Setting up PostgreSQL with Docker Compose](https://www.notion.so/Setting-up-PostgreSQL-with-Docker-Compose-ed34e705bb2f434eb7c7f77d01fb59de)
-```
-<!-- badges: start -->
-<!-- badges: end -->
+wget https://raw.githubusercontent.com/fdrennan/redditsuite/dev-freeze-1/R/connection_postgres.R
+``` 
+
 
 The goal of redditsuite is to ...
 
